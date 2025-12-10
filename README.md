@@ -7,6 +7,6 @@ Windows has made leaps and bounds in terms of its native compatibility with AI/M
 I document some of these issues for my own personal interest, but I've found out that others tend to face them too. With that in mind, I've compiled relevant documents covering these issues and step-by-step fixes created with the help of Anthropic Claude!
 
 # Contents:
-triton_windows.md
+<link https:github.com/mmarei1/problem_solving/triton_windows11.md>triton_windows11.md
 
 (C) Mohamed Marei
