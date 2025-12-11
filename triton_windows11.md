@@ -41,14 +41,6 @@ python -c "import triton; print('Triton version:', triton.__version__)"
 python -c "from sam3 import build_sam3_image_model; print('SAM3 works with Windows Triton!')"
 ```
 
-### If Patch Already Applied
-
-If you already applied the CPU patch, restore original files first:
-
-```bash
-python patch_sam3_no_triton.py --restore
-pip install https://github.com/leomaxwell973/Triton-3.3.0-UPDATE_FROM_3.2.0_and_FIXED-Windows-Nvidia-Prebuilt/releases/download/3.3.0/Triton-3.3.0-cp310-cp310-win_amd64.whl
-```
 
 ### Pros & Cons
 
